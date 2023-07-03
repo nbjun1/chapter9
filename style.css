@@ -23,7 +23,7 @@ main{
   background-color: #eee;
 }
 
-.step-box:last-chaild{
+.step-box:last-of-type{
   margin-right: 0;
 }
 
@@ -69,12 +69,12 @@ footer{
   header {
     width: 100%;
   }
-  
+
   main{
     width: 100%;
     display: block;
   }
-  
+
   .step-box{
     width: 90%;
     margin: 20px auto 0;
