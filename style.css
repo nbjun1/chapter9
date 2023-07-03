@@ -23,7 +23,7 @@ main{
   background-color: #eee;
 }
 
-.step-box:last-of-type{
+.step-box:last-child{
   margin-right: 0;
 }
 
